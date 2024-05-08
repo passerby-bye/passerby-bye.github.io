@@ -1,15 +1,15 @@
 name: "Pianfan's blog"
-description: "翩帆的个人技术博客"
+description: "Wenqing Zhang"
 
-avatar: https://pianfan.github.io/images/avatar.png
-favicon: https://pianfan.github.io/images/favicon.ico
+avatar: 
+favicon: 
 
 navigation:
   - name: 首页
     url: /
-  - name: 关于
+  - name: About
     url: /about
-  - name: 分类
+  - name: Category
     url: /tags
 
 paginate: 8
@@ -18,16 +18,16 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: xiongyunhan@outlook.com
+  email: 
   facebook:
-  github: pianfan
+  github: passerby-bye
   rss: # just type anything here for a working RSS icon
   twitter: 
   youtube:
 
 footer-text: Copyright (c) 2024 Pianfan
 
-url: https://pianfan.github.io
+url: 
 
 permalink: /:title/
 paginate_path: /page:num/
