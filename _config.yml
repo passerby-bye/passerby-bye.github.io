@@ -5,7 +5,7 @@ avatar:
 favicon:
 
 navigation:
-  - name: 首页
+  - name: Welcom
     url: /
   - name: About
     url: /about
